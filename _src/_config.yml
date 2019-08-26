@@ -1,0 +1,36 @@
+# Site settings
+title: standard-code.online
+description: >- # this means to ignore newlines until "baseurl:"
+  © 2019 Artur M. Brodzki 
+baseurl: "" 
+url: "https://standard-code.online"
+lang: pl_PL
+
+# Author settings
+author: Artur M. Brodzki
+email: artur@brodzki.org
+
+# Github Page settings
+github:
+  is_project_page: false
+
+# Google Analytics settings
+# google_analytics: UA-145896159-1
+
+# Build settings
+markdown: kramdown
+# theme: jekyll-theme-slate
+# plugins:
+#   - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
